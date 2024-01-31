@@ -6,15 +6,13 @@ export default {
 
 <template>
     <jumbotron class="cs-jumbo">
-        <p>Sono il Jumbotron!</p>
     </jumbotron>
 </template>
 
-<style>
+<style scoped>
 .cs-jumbo {
-    display: inline-block;
-    background-color: red;
-    height: 300px;
+    background-image: url(../assets/img/SI_Hub_Zelda_Portal.jpg);
+    height: 100vh;
     width: 100%;
     text-align: center;
 }
