@@ -11,6 +11,7 @@ export default {
 
 <style scoped>
 .cs-jumbo {
+    display: inline-block;
     background-image: url(../assets/img/SI_Hub_Zelda_Portal.jpg);
     height: 100vh;
     width: 100%;
